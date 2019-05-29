@@ -1,5 +1,5 @@
 # frontend-coursera-assignment3
-#Front end course by Prof. Yaakov from John Hopkins University
+<h1>Front end course by Prof. Yaakov from John Hopkins University</h1>
 <b>The following requirements were followed to complete this course assignment:</b>
 <ol>
 <li>(If you haven't already) Create a GitHub.com account and a repository that you will use for this class.</li>
